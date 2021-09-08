@@ -4,7 +4,6 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Setup](#setup)
-* [Usage](#usage)
 * [Project Status](#project-status)
 
 
@@ -31,16 +30,6 @@
 2.) Activate the new environment:
 
 `source venv/bin/activate`
-
-3.) Install the project requirements/dependencies using the requirements.txt file:
-
-`pip install -r requirements.txt`
-
-
-## Usage
-To run the site locally, run the following command:
-
-`./manage.py runserver`
  
 
 ## Project Status
